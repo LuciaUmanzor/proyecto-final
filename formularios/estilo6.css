@@ -1,0 +1,92 @@
+
+
+ body {
+          background-color: #9999ff;
+          Background-image: url("imagen/DF.jpg");
+          backgronund-size :6px;
+            background-repeat : repeat-x;
+   }
+
+    
+    * {
+        margin:0px;
+        padding:0px;
+    }
+            
+            
+    #menu {
+        margin: auto;
+        width: 470px;
+        font-family: Arial, Helvetica;
+    }
+            
+            
+    ul, ol {
+        list-style:none;
+    }
+            
+    .nav > li {
+        float: left;
+    }
+            
+    .nav li a {
+        background-color: #99ccff;
+        color: #000011;
+        text-decoration: none;
+        padding: 10px 12px;
+        display: block;
+    }
+            
+    .nav li a:hover {
+    background-color: #ffcc66;
+    }
+            
+    .nav li ul {
+        display:none;
+        position: absolute;
+        min-width:20px;
+    }
+            
+   .nav li:hover > ul {
+        display:block;
+    }
+            
+    .nav li ul li {
+        position:relative;
+    }
+            
+    .nav li ul li ul{
+        right: 95px;
+        top: 15px;
+    } 
+
+   h1{
+          color:#9999ff;
+            font = family :lucy:
+            font= size:45px;
+            text-shadow:1px 2px ;
+           text-shadoe: color: #9999ff
+     }
+
+    h2 {
+            color:#00FFFF; 
+         font= size:55px;
+          }
+  
+ #textoPr
+{
+	width:600px;
+	background-color:#9999ff;
+	color:"black"; 
+	margin:0 auto;
+	text-align:left;
+	border-radius:30px;
+	padding:25px;
+	box-shadow:4px 6px 30px rgba(5,8,9,0.5);
+}
+
+
+h3{
+
+          color:#9999ff;
+}

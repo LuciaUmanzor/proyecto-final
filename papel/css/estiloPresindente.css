@@ -1,0 +1,161 @@
+html{
+font-family: Aldhabi;
+font-size: 20px;
+
+}
+
+ #texto figure img{
+              width:102%;
+          margin-left: 0%;
+      background-repeat: 5%;
+}
+
+body{
+      background-color: rgb(98, 116, 116);
+        background-size: 400%;
+         background-repeat:repeat-x; 
+         
+               background-attachment: fixed;
+                font-family: Lucida Calligraphy;
+          font-size: 14px;
+}
+
+
+#imagen1 figure img{
+              width:20%;
+          margin-left: 0%;
+      background-repeat: 2%;
+      float: left;
+       cursor: pointer;
+}
+
+
+#imagen2 figure img{
+              width:20%;
+          margin-left: 10%;
+      background-repeat: 15%;
+     float: left;
+         cursor: pointer; 
+}
+
+
+#imagen3 figure img{
+              width:20%;
+          margin-left: 15%;
+      background-repeat: 5%;
+    cursor: pointer; 
+}
+
+#imagen4 figure img{
+              width:20%;
+          margin-left: 0%;
+      background-repeat: 5%;
+     float: left;
+ cursor: pointer; 
+}
+
+#imagen5 figure img{
+              width:20%;
+          margin-left: 10%;
+      background-repeat: 5%;
+     float: left;
+cursor: pointer; 
+}
+
+#imagen6 figure img{
+              width:20%;
+          margin-left: 15%;
+      background-repeat: 5%;
+     cursor: pointer; 
+}
+
+
+
+  h1{
+        
+          font-family: Lucida Calligraphy;
+          font-size: 23px;
+        }
+
+        header h1{
+  font-size:1.2em;
+  font-weight:normal;
+  margin:0.2em 70px 0 0;
+
+          font-family: Lucida Calligraphy;
+          font-size: 23px;
+}
+header{
+  background-color:rgba(35, 123, 148, 0.69);
+  color:#fff;
+  padding:0.5em;
+  overflow:hidden;
+}
+
+table{
+  font-family: Aldhabi;
+          font-size: 25px;
+}
+
+#textoPr{
+ 
+  width:75%;
+     background-color: rgb(121, 188, 190);
+     background-attachment: fixed;
+       background-size: 95%;
+  color:"black"; 
+  margin:0 auto;
+  text-align:left;
+  border-radius:30px;
+  padding:25px;
+  box-shadow:2px 8px 0px rgba(0,0,0,0.5);
+
+      background-repeat: 10%;
+}
+
+
+#text{
+ 
+  width:75%;
+     background-color: rgb(218, 138, 202);
+     background-attachment: fixed;
+       background-size: 95%;
+  color:"black"; 
+  margin:0 auto;
+  text-align:left;
+  border-radius:30px;
+  padding:25px;
+  box-shadow:2px 8px 0px rgba(0,0,0,0.5);
+
+      background-repeat: 10%;
+}
+
+#tex{
+ 
+  width:75%;
+     background-color: rgb(243, 244, 214);
+     background-attachment: fixed;
+       background-size: 95%;
+  color:"black"; 
+  margin:0 auto;
+  text-align:left;
+  border-radius:30px;
+  padding:25px;
+  box-shadow:2px 8px 0px rgba(0,0,0,0.5);
+
+      background-repeat: 10%;
+}
+
+#titulo header{
+ background-color:rgb(160, 120, 106);
+  color:#fff;
+  padding:0.5em;
+  overflow:hidden;
+}
+
+#titulo2 header{
+ background-color:rgb(95, 157, 184);
+  color:#fff;
+  padding:0.5em;
+  overflow:hidden;
+}
